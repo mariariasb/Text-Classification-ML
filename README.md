@@ -10,4 +10,4 @@ From these results, the three techniques with the best performance in the percen
 metric were selected, which were: Logistic Regression Classifier (LR) with 77,58%,
 Random Forest Classifier (RF) with 77,10% and Support Vector Machine Classifier (SVM) with 76,68%. 
 
-Cross Validation Techniques and Auto-MachineLearning through Sk-Learn was also evaluated to the dataset.
+Cross Validation Techniques and Auto-MachineLearning through Sk-Learn were also evaluated to the dataset.
